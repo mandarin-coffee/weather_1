@@ -5,6 +5,5 @@
  * @return {int} The sum of the two numbers.
  */
 export function sum(a, b) {
-  const c = a + b;
-  return c;
+  return a + b;
 }
