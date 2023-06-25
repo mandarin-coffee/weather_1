@@ -6,5 +6,7 @@
  */
 export function sum(a, b) {
   asdsad;
+  // надеюсь верно понял из телеграмма
+  newstring;
   return a + b;
 }
