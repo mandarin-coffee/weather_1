@@ -5,6 +5,5 @@
  * @return {int} The sum of the two numbers.
  */
 export function sum(a, b) {
-  dsfsdfds;
   return a + b;
 }
